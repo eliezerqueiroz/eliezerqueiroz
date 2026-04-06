@@ -3,7 +3,7 @@
 
 Sou apaixonado por transformar dados brutos em insights de negócio valiosos. Especialista em construir arquiteturas de dados robustas utilizando o ecossistema Big Data.
 
-- 🔭 Atualmente trabalhando em: **Pipelines de dados escaláveis na AWS**
+- 🔭 Atualmente focado em: **Pipelines de dados escaláveis em ambiente Cloud**
 - 💼 Experiência com: **Python, PySpark, SQL, Airflow, Data Lakes**
 - 🎓 Formação: **Bacharel em Ciência e Tecnologia (UFBA)**
 
